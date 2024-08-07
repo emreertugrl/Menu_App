@@ -46,7 +46,7 @@ To develop the project, follow these steps:
 
 ## Live Demo
 
-- Netlify: [Project View](https://menuapplication.netlify.app/)
+- Netlify: <a href="https://menuapplication.netlify.app/" target="_blank" rel="noopener noreferrer">Project View</a>
 
 ## Contact
 
