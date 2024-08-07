@@ -30,25 +30,23 @@ To develop the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/emreertugrul7/qr-menu.git
+   git clone https://github.com/emreertugrl/Menu_App.git
    ```
 2. Navigate to the project directory:
 
    ```bash
-   cd qr-menu
+   cd Menu_App
    ```
 
 3. Open the relevant files in your browser to view the application.
 
 ## Visual
 
-    <img src="/images/menuapp.gif" alt="menu-app-gif">
+<img src="/images/menuapp.gif" alt="menu-app-gif">
 
 ## Live Demo
 
-## API'ler
-
-No external APIs were used in this project.
+<a href="https://menuapplication.netlify.app/">Netlify Project View</a>
 
 ## Contact
 
